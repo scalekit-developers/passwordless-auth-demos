@@ -2,6 +2,8 @@
 
 This repository contains a collection of **passwordless authentication** demo applications using [Scalekit](https://scalekit.com). Each subproject demonstrates how to implement secure, modern passwordless login flows (such as magic links) in different frontend and backend frameworks.
 
+Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+
 Explore how to build seamless passwordless authentication experiences using Scalekit in React, Next.js, Vue, SolidJS, and Express.js apps.
 
 ## Overview
